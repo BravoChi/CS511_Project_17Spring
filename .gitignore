@@ -1,0 +1,14 @@
+*.dot
+*.svg
+*.zip
+*.txt
+*.tweet
+*.pdf
+*.log
+*.out
+*.sqlite
+*.sqlite-journal
+*.gz
+*backup
+.ipynb*
+.DS*
